@@ -16,6 +16,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardoklingmesiano)](https://www.linkedin.com/in/eduardoklingmesiano)
 
 <h3 align="left">Languages and Tools:</h3>
+
 <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
@@ -41,9 +42,13 @@
 
 <h3 align="left">Github Stats:</h3>
 
-<img align="left" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=DuduKling&show_icons=true&locale=en&layout=compact&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" alt="DuduKling" />
+<a href="https://github.com/DuduKling">
+    <img align="left" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=DuduKling&show_icons=true&locale=en&layout=compact&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" alt="DuduKling" />
+</a>
 
-<img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=DuduKling&show_icons=true&locale=en&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="DuduKling" />
+<a href="https://github.com/DuduKling"> 
+    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=DuduKling&show_icons=true&locale=en&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="DuduKling" />
+</a>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DuduKling&" alt="DuduKling" /></p> -->
 
