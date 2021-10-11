@@ -43,12 +43,13 @@
 <h3 align="left">Github Stats:</h3>
 
 <a href="https://github.com/DuduKling">
-    <img align="left" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=DuduKling&show_icons=true&locale=en&layout=compact&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" alt="DuduKling" />
+      <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuduKling&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" alt="DuduKling" />
 </a>
 
-<a href="https://github.com/DuduKling"> 
-    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=DuduKling&show_icons=true&locale=en&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="DuduKling" />
+<a href="https://github.com/DuduKling">
+      <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=DuduKling&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="DuduKling" />
 </a>
+
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DuduKling&" alt="DuduKling" /></p> -->
 
